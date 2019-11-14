@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
-        <title>FakeBook form</title>
         <body>
             <h1 align="center" style="background-color : blue">Sign Up for FakeBook&#174;</h1>
             <hr>
