@@ -7,8 +7,10 @@ Projects : <br /><br />
 IOT Platform <br />
 Feb 2020 – May 2020<br />
 
-Project descriptionAn IOT Platform which has web based UI to manage it. Admins can register various types of sensors with their properties, and developers can upload and run/schedule IOT based algorithms on them. The platform takes care of validating code, creating virtual environments, load balancing and sensor binding. Output is shown on dashboard (run-time).
+Project descriptionAn IOT Platform which has web based UI to manage it. Admins can register various types of sensors with their properties, and developers can upload and run/schedule IOT based algorithms on them. The platform takes care of validating code, creating virtual environments, load balancing and sensor binding. Output is shown on dashboard (run-time).<br />
 Language used : Python
+Project <a href="https://github.com/gaurav-kc/IOT_Platform" target = "_blank">Link</a>
 <br />
+
 
 
