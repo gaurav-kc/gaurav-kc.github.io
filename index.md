@@ -4,7 +4,7 @@ LinkedIn : <a href="https://www.linkedin.com/in/gauravkc" target = "_blank">Gaur
 Hackerrank : <a href="https://www.hackerrank.com/2019201045_Gaura" target = "_blank">Gaurav Chaudhari</a> <br />
 Currently pursuing M.Tech (CSE) at <a href="https://www.iiit.ac.in/" target = "_blank">IIIT Hyderabad</a> <br />
 <a href="https://drive.google.com/file/d/1vajtJiN_jOVLFLDavAkl55BK0aWtmSrn/view?usp=sharing" target = "_blank">My Resume</a> <br /><br />
-Contact : gaurav.chaudhari@students.iiit.ac.in <br />
+Contact : gaurav.chaudhari@students.iiit.ac.in or chaudharigaurav2012@gmail.com <br />
 Projects : <br />
 
 
