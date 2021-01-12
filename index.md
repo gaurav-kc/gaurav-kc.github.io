@@ -57,3 +57,12 @@ Language used : Python <br />
 
 <br />
 
+<b>Endec - File encoder </b><a href="https://github.com/gaurav-kc/En_dec" target = "_blank">Link</a><br />
+
+A hobby project in which you can encode and encrypt files into fix sized chunks and later on recover files. The
+services are provided in the form of API and hence anyone can hit the API on server and make a service request and
+receive response (in JSON formats).<br />
+Language used : Python <br />
+
+<br />
+
