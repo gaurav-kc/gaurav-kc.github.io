@@ -3,7 +3,7 @@ Github : <a href="https://github.com/gaurav-kc" target = "_blank">gaurav-kc</a> 
 LinkedIn : <a href="https://www.linkedin.com/in/gauravkc" target = "_blank">Gaurav Chaudhari</a> <br />
 Hackerrank : <a href="https://www.hackerrank.com/2019201045_Gaura" target = "_blank">Gaurav Chaudhari</a> <br />
 Currently pursuing M.Tech (CSE) at <a href="https://www.iiit.ac.in/" target = "_blank">IIIT Hyderabad</a> <br />
-<a href="https://drive.google.com/file/d/12js_gZ9BF2f6X_VGxVyKS71AMAGNnH8h/view?usp=sharing" target = "_blank">My Resume</a> <br /><br />
+<a href="https://drive.google.com/file/d/1vajtJiN_jOVLFLDavAkl55BK0aWtmSrn/view?usp=sharing" target = "_blank">My Resume</a> <br /><br />
 Contact : gaurav.chaudhari@students.iiit.ac.in <br />
 Projects : <br />
 
